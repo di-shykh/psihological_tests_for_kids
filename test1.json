@@ -1,0 +1,72 @@
+﻿[
+    { "question": "You are offered two roles in the school play.Which one will you choose? ",
+        "answers": {
+        "a": "the lead role, which is glamorous and gets you a lot of attention",
+        "b": "another part that’s less glamorous but lets you use more of your acting skills"
+        }
+    },
+    {
+        "question": "You are offered two jobs. Which one will you choose? ",
+        "answers": {
+        "a": "the one that pays very good money",
+        "b": "the one you’d really love doing, even though the pay isn’t very good"
+        }
+    },
+    {
+        "question": "You are choosing between two classes. Which one will you sign up for? ",
+        "answers": {
+        "a": "the easier one",
+        "b": "the more interesting, more challenging one"
+        }
+    },
+    {
+        "question": "You must read at least one book this semester. Which will you choose?",
+        "answers": {
+        "a": "one book from the list the teacher has given you",
+        "b": "five books of your own choosing that are just as long"
+        }
+    },
+    {
+        "question": "Two people have invited you out. Which will you choose?",
+        "answers": {
+        "a": "the person who is most fashionable to be seen with",
+        "b": "the much more interesting but less popular person "
+        }
+    },
+    {
+        "question": "Which do you feel you learn more from?",
+        "answers": {
+        "a": "studying for a class so you can get an A ",
+        "b": "studying for a class because you’re interested in it"
+        }
+    },
+    {
+        "question": "In deciding between two sports, which will you choose?",
+        "answers": {
+        "a": "the one that gives trophies to the best players at the end of the season ",
+        "b": "the one that’s the most fun"
+        }
+    },
+    {
+        "question": "Which feels better to you? ",
+        "answers": {
+        "a": "cleaning your room so you will get your allowance ",
+        "b": "cleaning your room because you want to"
+        }
+    },
+    {
+        "question": "In general, which is more important to your decision-making?",
+        "answers": {
+        "a": "appearances",
+        "b": "meaning"
+        }
+    },
+        {
+        "question": "In general, which are you more interested in?",
+        "answers": {
+        "a": "quantity",
+        "b": "quality"
+        }
+    }
+]
+

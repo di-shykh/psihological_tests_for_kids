@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Funny tests</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <link href="styles.css" rel="stylesheet" />
+    <link href="media-queries.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h3>Please login</h3>
+        <form action="index.html">
+            <label for="name">Name</label><br />
+            <input type="text" id="name" required oninvalid="this.setCustomValidity('Please, enter your name!')" oninput="setCustomValidity('')" /><br />
+            <label for="password">Password</label><br />
+            <input type="password" id="password" required oninvalid="this.setCustomValidity('Please, enter your password!')" oninput="setCustomValidity('')" /><br />
+            <input type="submit" value="Login" />
+        </form>
+    </div>
+    <script src="scriptForForm.js"></script>
+</body>
+</html>
